@@ -75,17 +75,17 @@ const DefaultHeader = () => {
                     </nav>
                     <div className="sb-buttons-frame">
                     {/* button */}
-                    <div className={`sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0 sb-btn-cart ${miniCart ? "sb-active" : ""}`} onClick={() => setMiniCart(!miniCart)}>
+                    {/* <div className={`sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0 sb-btn-cart ${miniCart ? "sb-active" : ""}`} onClick={() => setMiniCart(!miniCart)}>
                         <span className="sb-icon">
                             <img src="/img/ui/icons/cart.svg" alt="icon" />
                         </span>
                         <i className="sb-cart-number">{CartData.total}</i>
-                    </div>
+                    </div> */}
                     {/* button end */}
                     {/* menu btn */}
-                    <div className={`sb-menu-btn ${mobileMenu ? "sb-active" : ""}`} onClick={() => setMobileMenu(!mobileMenu)}><span></span></div>
+                    {/* <div className={`sb-menu-btn ${mobileMenu ? "sb-active" : ""}`} onClick={() => setMobileMenu(!mobileMenu)}><span></span></div> */}
                     {/* info btn */}
-                    <div className={`sb-info-btn ${miniSidebar ? "sb-active" : "" }`} onClick={() => setMiniSidebar(!miniSidebar)}><span></span></div>
+                    {/* <div className={`sb-info-btn ${miniSidebar ? "sb-active" : "" }`} onClick={() => setMiniSidebar(!miniSidebar)}><span></span></div> */}
                     </div>
                 </div>
                 </div>

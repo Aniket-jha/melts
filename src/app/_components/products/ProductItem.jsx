@@ -9,10 +9,7 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
   const [cartTotal, setCartTotal] = useState(CartData.total);
   const [quantity, setQuantity] = useState(1);
 
-  useEffect(() => {
-    const cartNumberEl = document.querySelector('.sb-cart-number');
-    cartNumberEl.innerHTML = cartTotal;
-  }, [cartTotal]);
+  
 
   const addToCart = (e) => {
     e.preventDefault();
