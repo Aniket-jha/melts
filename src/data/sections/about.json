@@ -1,0 +1,28 @@
+{
+    "image": { 
+        "url": "/img/illustrations/aboutCover.png",
+        "alt": "interior"
+    },
+    "number": {
+        "value": "16",
+        "label": "Years Experiense"
+    },
+    "title": "We are doing more than <br>you expect",
+    "items": [
+        {
+            "num": "01",
+            "title": "Modern and Hygienic Enviornment",
+            "text": "Experience the finest sweets crafted in a cutting-edge, hygienic environment where modern standards meet timeless flavor."
+        },
+        {
+            "num": "02",
+            "title": "Freshly Made in UK",
+            "text": "Crafted with care in the UK, our sweets are freshly made to deliver authentic flavor and top-notch quality."
+        },
+        {
+            "num": "03",
+            "title": "Trust and Loyalty amongst our Customers",
+            "text": "Built on a foundation of trust and loyalty, we consistently deliver quality that keeps our customers coming back."
+        }
+    ]
+}

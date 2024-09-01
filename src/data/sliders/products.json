@@ -1,0 +1,9 @@
+{
+    "title": "Our Range",
+    "description": "Adding sweetness to your life in a pure delightful way",
+    "button": {
+        "link": "/menu",
+        "icon": "/img/ui/icons/menu.png",
+        "label": "All Products"
+    }
+}

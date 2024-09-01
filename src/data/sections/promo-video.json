@@ -1,0 +1,13 @@
+{
+    "title": "At Meltz we strive to mark your memories through our range of sweets.",
+    "subtitle": "About Us",
+    "description": "A moment to celebrate and remember should never be compromised upon quality. So we make sure that we prepare our range of sweets with choicest of ingredients, for we truly believe, that you deserve nothing but the best. We choose to call ourselves Meltz as we celebrate every tender or melting moments of our lives through our flavourful, melt in the mouth sweets. For us Meltz, sweets are not just something edible, but they are metaphor for the happy occasions of life. ",
+    "button": {
+        "label": "Promo video",
+        "link": "https://www.youtube.com/watch?v=F3zw1Gvn4Mk"
+    },
+    "image": {
+        "url": "/img/illustrations/aboutMain.png",
+        "alt": "interior"
+    }
+}

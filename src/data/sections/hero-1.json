@@ -1,0 +1,19 @@
+{
+    "image": {
+       "url": "/img/illustrations/girl.png",
+       "alt": "girl"
+    },
+    "subtitle": "Har khushiyan hamaare Sang",
+    "title": "Melting Your Hearts through Your, taste buds for Over  a Decade",
+    "description": "Crafting unforgettable flavors that warm hearts and satisfy cravings for over a decade.",
+    "button1": {
+        "link": "/shop",
+        "icon": "/img/ui/icons/menu.png",
+        "label": "Our Products"
+    },
+    "button2": {
+        "link": "/about",
+        "icon": "/img/ui/icons/arrow.svg",
+        "label": "About us"
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "collection": {
+        "popular": [
+            {
+                "image": "/img/menu/rasmalai.png",
+                "title": "Rasmalai",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "The all-time favourite sweet of all. Rich, creamy and so scrumptious that one is simply just not enough. Made of cheese dumplings soaked with fragrant and flavoured thick sweet milk, just a bite creates a riot of flavor in your mouth. So don’t hold back, treat yourself and your loved ones with this creamy regal delight today. "
+            },
+            {
+                "image": "/img/menu/angoori.png",
+                "title": "Angoori Rasmalai",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "Soft Mini Cheese Dumplings soaked in rich flavoured thickened milk that would take you straight to the corner sweet shops of India, to remember the moments you waited and patiently saved to relish these delicious bites, waiting, betting on it, just to treat your palate to the ultimate creamy delight."
+            },
+            {
+                "image": "/img/menu/gulab.png",
+                "title": "Gulab Jamun",
+                "price": "9",
+                "currency": "$",
+                "rating": 5,
+                "text": "A sweet which remains the favourite of all generations, which truly lives to the term ‘age no bar’, the most loved and most sought-after Gulab Jamun. Made of flour and milk powder, fried to perfect texture, these delicious bites are then soaked in cardamom flavoured enjoyable sugar syrup, making it tender, soft and delicious in every bite, unable to stop with just one."
+                
+            },
+            {
+                "image": "/img/menu/minigulab.png",
+                "title": "Mini Gulab Jamun",
+                "price": "4",
+                "currency": "$",
+                "rating": 5,
+                "text": "Sweet little fulfilling mini gulab jamun bites for a quick non-stop eat. Why stop with one when these delectable pops are just an order away. Your favourites made out of flour and milk powder fried to the perfect golden brown and then soaked into the absolute delightful flavoured sugar syrup. Gift it to your loved ones or treat yourself with these absolute melt in the mouth relishes today."
+            },
+            {
+                "image": "/img/menu/motichoor.png",
+                "title": "Motichoor Ladoo",
+                "price": "6",
+                "currency": "$",
+                "rating": 5,
+                "text": "There are hardly any celebrations without this one. You can never see it alone, but piled up to create a beautiful pyramid, all eyes upon it even from a distance, like a decorative art on the serving table. Motichoor ke ladoo has the magic to bring the love of many hearts together. Be it a round of aunts or maasis sitting together making rolls of the tiny fried  gram flours into the most perfect rounded dessert or the little ones (or young at heart) betting on who would eat the most. The ladoos are meant not just for one, but for all."
+            },
+            {
+                "image": "/img/menu/kaju.png",
+                "title": "Kaju Katli",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "If royalty were to be named in the world of sweets, Kaju Katli would be crowed without a second thought. Made out of beautiful and rich blend of cashews and sugar, these are first spread on a platter and then cut into very geometrical diamond delicacy which we assure, will never disappoint. So order your royal treat today."
+            },
+            {
+                "image": "/img/menu/rasgulla.png",
+                "title": "Rasgulla",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "Words would fail to describe these ever juicy, scrumptious and tender rasgulla, which literally  means ‘ras’-Juice ‘gulla’-ball. Made of ‘channa’ or cottage sweet, these are then soaked in aromatic flavoured sugar syrup. The spongy texture of the rounded cottage cheese absorbs the aroma, as well as the sweetness, making it the juicy succulent rasgulla that we all know. Don’t deprive yourself of this delight, order this lovely treat today."
+            }     
+        ],
+        "bestseller": [
+            {
+                "image": "/img/menu/6.jpg",
+                "title": "Croustillant de poisson",
+                "price": "4",
+                "currency": "$",
+                "rating": 5,
+                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+            },
+            {
+                "image": "/img/menu/7.jpg",
+                "title": "Carpaccio de daurade",
+                "price": "6",
+                "currency": "$",
+                "rating": 5,
+                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+            },
+            {
+                "image": "/img/menu/8.jpg",
+                "title": "Stracciatella",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+            },
+            {
+                "image": "/img/menu/11.jpg",
+                "title": "Carpaccio de daurade",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+            },
+            {
+                "image": "/img/menu/10.jpg",
+                "title": "Chevrefrit au miel",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+            },
+            {
+                "image": "/img/menu/9.jpg",
+                "title": "Saumon Gravlax",
+                "price": "9",
+                "currency": "$",
+                "rating": 5,
+                "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+            }
+        ]
+    },
+    "items": [
+        {
+            "image": "/img/menu/1.jpg",
+            "title": "Chevrefrit au miel",
+            "price": "14",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+        },
+        {
+            "image": "/img/menu/2.jpg",
+            "title": "Saumon Gravlax",
+            "price": "9",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/3.jpg",
+            "title": "Carpaccio de daurade",
+            "price": "14",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+        },
+        {
+            "image": "/img/menu/4.jpg",
+            "title": "Stracciatella",
+            "price": "11",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+        },
+        {
+            "image": "/img/menu/5.jpg",
+            "title": "Carpaccio de daurade",
+            "price": "6",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/6.jpg",
+            "title": "Chevrefrit au miel",
+            "price": "14",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+        },
+        {
+            "image": "/img/menu/7.jpg",
+            "title": "Stracciatella",
+            "price": "11",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+        },
+        {
+            "image": "/img/menu/8.jpg",
+            "title": "Carpaccio de daurade",
+            "price": "6",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/9.jpg",
+            "title": "Croustillant de poisson",
+            "price": "4",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+        },
+        {
+            "image": "/img/menu/10.jpg",
+            "title": "Carpaccio de daurade",
+            "price": "6",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+        },
+        {
+            "image": "/img/menu/11.jpg",
+            "title": "Carpaccio de daurade",
+            "price": "7",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+        },
+        {
+            "image": "/img/menu/12.jpg",
+            "title": "Carpaccio de daurade",
+            "price": "12",
+            "currency": "$",
+            "rating": 5,
+            "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+        }
+    ]
+}
