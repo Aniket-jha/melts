@@ -26,9 +26,9 @@ const About1 = () => {
       <AboutTwoSection />
       <FeaturesOneSection />
       <PromoVideoSection />
-      <TeamSection />
+      {/* <TeamSection /> */}
       <TestimonialSlider />
-      <CallToActionTwoSection />
+      {/* <CallToActionTwoSection /> */}
     </>
   );
 };

@@ -8,7 +8,7 @@
     "description": "Crafting unforgettable flavors that warm hearts and satisfy cravings for over a decade.",
     "button1": {
         "link": "/shop",
-        "icon": "/img/ui/icons/menu.png",
+        "icon": "/img/ui/icons/menu.svg",
         "label": "Our Products"
     },
     "button2": {

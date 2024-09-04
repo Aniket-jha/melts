@@ -51,12 +51,28 @@
                 "text": "If royalty were to be named in the world of sweets, Kaju Katli would be crowed without a second thought. Made out of beautiful and rich blend of cashews and sugar, these are first spread on a platter and then cut into very geometrical diamond delicacy which we assure, will never disappoint. So order your royal treat today."
             },
             {
+                "image": "/img/menu/pistabarfi.png",
+                "title": "Pista Barfi",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "Our Pista Barfi is a luxurious blend of creamy sweetness and the rich, nutty flavor of premium pistachios. Each piece is crafted to perfection, offering a delightful texture and an irresistible taste that's sure to satisfy."
+            },    
+            {
                 "image": "/img/menu/rasgulla.png",
                 "title": "Rasgulla",
                 "price": "11",
                 "currency": "$",
                 "rating": 5,
                 "text": "Words would fail to describe these ever juicy, scrumptious and tender rasgulla, which literally  means ‘ras’-Juice ‘gulla’-ball. Made of ‘channa’ or cottage sweet, these are then soaked in aromatic flavoured sugar syrup. The spongy texture of the rounded cottage cheese absorbs the aroma, as well as the sweetness, making it the juicy succulent rasgulla that we all know. Don’t deprive yourself of this delight, order this lovely treat today."
+            },     
+            {
+                "image": "/img/menu/barfi.png",
+                "title": "Plain Barfi",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "Our Plain Barfi is a timeless treat, crafted from the finest ingredients to deliver a smooth, melt-in-your-mouth texture. Rich in flavor yet subtly sweet, it's the perfect choice for those who appreciate classic Indian confectionery."
             }     
         ],
         "bestseller": [

@@ -60,7 +60,7 @@ const ProductsSlider = ( {items, title, description, button = {}, slidesPerView,
                 {...SliderProps.shortMenuSlider4}
                 className={`swiper-container sb-short-menu-slider-4i`}
             >
-                {items.slice(0, 8).map((item, key) => (
+                {items.slice(0, 10).map((item, key) => (
                 <SwiperSlide className="swiper-slide" key={`products-slider-item-${key}`}>
                     {itemType == "product" ? (
                     <ProductItem item={item} index={key} marginBottom={0} moreType={moreType} />
@@ -77,7 +77,7 @@ const ProductsSlider = ( {items, title, description, button = {}, slidesPerView,
                 {...SliderProps.shortMenuSlider3}
                 className={`swiper-container sb-short-menu-slider-3i`}
             >
-                {items.slice(0, 6).map((item, key) => (
+                {items.slice(0, 8).map((item, key) => (
                 <SwiperSlide className="swiper-slide" key={`products-slider-item-${key}`}>
                     {itemType == "product" ? (
                     <ProductItem item={item} index={key} marginBottom={0} moreType={moreType} />

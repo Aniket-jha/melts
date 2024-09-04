@@ -510,15 +510,16 @@ breadcrumbs
 
 ***************************/
 .sb-breadcrumbs {
-  border: solid 2px $c4;
+  border: solid 2px #DFC5FE;
   position: relative;
   overflow: hidden;
   max-width: 100%;
-  background-color: $c5;
+  background-color: #DFC5FE;
   display: inline-flex;
   align-items: center;
   font-weight: 500;
   font-size: 14px;
+  border-radius: 50px;
   padding: 0 20px;
   height: 55px;
   transition: $tr;
@@ -666,8 +667,8 @@ buttons
   font-size: 14px;
   margin-right: 15px;
   margin-bottom: 10px;
-  background-color: #9f4b97;
-  color: white;
+  background-color: #DFC5FE;
+  
   border-radius: 50px;
   transition: $tr;
 

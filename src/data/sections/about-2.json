@@ -1,12 +1,12 @@
 {
     "title": "We are doing more than <br>you expect",
-    "description": "<p>Faudantium magnam error temporibus ipsam aliquid neque quibusdam dolorum, quia ea numquam assumenda mollitia dolorem impedit. Voluptate at quis exercitationem officia temporibus adipisci quae totam enim dolorum, assumenda. Sapiente soluta nostrum reprehenderit a velit obcaecati facilis vitae magnam tenetur neque vel itaque inventore eaque explicabo commodi maxime! Aliquam quasi, voluptates odio.</p><p>Consectetur adipisicing elit. Cupiditate nesciunt amet facilis numquam, nam adipisci qui voluptate voluptas enim obcaecati veritatis animi nulla, mollitia commodi quaerat ex, autem ea laborum.</p>",
+    "description": "<p>Meltz uses the purest of ingredients and all our products are manufactured in a modern and hygienic environment. Our quality controls are very stringent, in order to deliver the best products to you. We also customize our offering as per your needs, such as our collections of Mixed Sweet offerings, be it in our Diwali Gift Box (Diwali ki Mithaiyaan) or Corporate Gift Box as a token of appreciation. Your every occasion can be made extra special with a simple ‘sweet box’ gesture from Meltz. <br />Our endeavor is to build trust and loyalty amongst our customers, by proving with the finest quality of Indian Traditional Sweets, making us your favourite closest sweet shop.</p>",
     "image": {
-        "url": "/img/gallery/2.jpg",
+        "url": "/img/menu/falooda.png",
         "alt": "image"
     },
     "number": {
-        "value": "17",
+        "value": "16",
         "label": "Years Experiense"
     },
     "signature": "/img/ui/signature.png"

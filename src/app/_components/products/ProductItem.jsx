@@ -61,7 +61,7 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
           {/* button */}
           <a href="#." className="sb-btn sb-atc" >
             <span className="sb-icon">
-              <img src="/img/ui/icons/cart.png" alt="icon" />
+              <img src="/img/ui/icons/cart.svg" alt="icon" />
             </span>
             <span className="sb-add-to-cart-text">Order Now</span>
            

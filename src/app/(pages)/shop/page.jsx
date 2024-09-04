@@ -8,6 +8,7 @@ import PageBanner from "@components/PageBanner";
 import PromoSection from "@components/sections/Promo";
 import TeamSection from "@components/sections/Team";
 import CategoriesSection from "@components/sections/Categories";
+import ProductsGrid from "../../_components/products/ProductsGrid";
 
 const ProductsSlider = dynamic( () => import("@components/sliders/Products"), { ssr: false } );
 
@@ -21,9 +22,9 @@ export const metadata = {
 const Shop = () => {
   return (
     <>
-      <PageBanner pageTitle={"Online shop"} breadTitle={"Shop"} type={1} />
-      <CategoriesSection heading={0} paddingTop={90} />
-      <ProductsSlider 
+      <PageBanner pageTitle={"Products"} breadTitle={"Products"} type={1} />
+      <ProductsGrid items={Products.collection['popular']} />
+      {/* <ProductsSlider 
         items={Products.collection['popular']} 
         title={'Most <span>popular</span> dishes'} 
         description={'Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.'} 
@@ -39,8 +40,8 @@ const Shop = () => {
         slidesPerView={4}
         itemType={'product'} 
       />
-      <TeamSection />
-      <PromoSection />
+      <TeamSection /> */}
+      {/* <PromoSection /> */}
     </>
   );
 };
