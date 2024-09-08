@@ -6,3 +6,12 @@ a{
 h1, h2{
     font-weight: 600;
 }
+.mainBackground{
+    background-color: #fcfcef;
+}
+.productGridMain{
+    padding-top: 150px;
+}
+.aboutGridMain{
+    padding-top:50px;
+}

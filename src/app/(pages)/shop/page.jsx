@@ -22,8 +22,10 @@ export const metadata = {
 const Shop = () => {
   return (
     <>
-      <PageBanner pageTitle={"Products"} breadTitle={"Products"} type={1} />
+      {/* <PageBanner pageTitle={"Products"} breadTitle={"Products"} type={1} /> */}
+      <div className="">
       <ProductsGrid items={Products.collection['popular']} />
+      </div>
       {/* <ProductsSlider 
         items={Products.collection['popular']} 
         title={'Most <span>popular</span> dishes'} 

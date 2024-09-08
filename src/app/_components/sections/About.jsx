@@ -30,7 +30,7 @@ const AboutSection = () => {
                             <img src={Data.image.url} alt={Data.image.alt} className="sb-interior" />
                         </div>
 
-                        <div className="sb-square"></div>
+                        
                         <div className="sb-cirkle-1"></div>
                         <div className="sb-cirkle-2"></div>
                         <div className="sb-cirkle-3"></div>

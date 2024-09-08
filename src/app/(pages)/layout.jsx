@@ -9,7 +9,7 @@ const PagesLayouts = ({
       <Header layout={"default"} />
 
       {/* dynamic content */}
-      <div id="sb-dynamic-content" className="sb-transition-fade">
+      <div id="sb-dynamic-content" className="sb-transition-fade mainBackground">
         {children}
         
         <Footer layout={"default"} />

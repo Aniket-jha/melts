@@ -17,7 +17,7 @@ export const metadata = {
 const Products = () => {
   return (
     <>
-      <PageBanner pageTitle={"Main dishes"} breadTitle={"Main dishes"} type={1} />
+      {/* <PageBanner pageTitle={"Main dishes"} breadTitle={"Main dishes"} type={1} /> */}
 
       {/* shop list */}
       <section className="sb-menu-section sb-p-90-60">

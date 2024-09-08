@@ -27,8 +27,8 @@ const Contact = () => {
                         <div className="sb-main-title-frame">
                             <div className="sb-main-title">
                                 <span className="sb-suptitle sb-mb-30">Contact</span>
-                                <h1 className="sb-mb-30">Get in <span>Touch with Starbelly</span></h1>
-                                <p className="sb-text sb-text-lg sb-mb-30">Consectetur numquam poro nemo veniam<br/>eligendi rem adipisci quo modi.</p>
+                                <h1 className="sb-mb-30">Get in <span>Touch with Meltz</span></h1>
+                                {/* <p className="sb-text sb-text-lg sb-mb-30">Consectetur numquam poro nemo veniam<br/>eligendi rem adipisci quo modi.</p> */}
 
                                 <ul className="sb-breadcrumbs">
                                     <li><Link href="/">Home</Link></li>
@@ -41,8 +41,8 @@ const Contact = () => {
                     <div className="col-lg-5">
                         <div className="sb-contact-form-frame">
                             <div className="sb-illustration-9">
-                                <img src="/img/illustrations/envelope-1.png" alt="envelope" className="sb-envelope-1" />
-                                <img src="/img/illustrations/envelope-2.png" alt="envelope" className="sb-envelope-2" />
+                                {/* <img src="/img/illustrations/envelope-1.png" alt="envelope" className="sb-envelope-1" />
+                                <img src="/img/illustrations/envelope-2.png" alt="envelope" className="sb-envelope-2" /> */}
 
                                 <div className="sb-cirkle-1"></div>
                                 <div className="sb-cirkle-2"></div>
@@ -78,7 +78,7 @@ const Contact = () => {
 
         <ContactInfoSection />
 
-        <ContactMapSection />
+        {/* <ContactMapSection /> */}
     </>
   );
 };

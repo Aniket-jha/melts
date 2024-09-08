@@ -21,15 +21,15 @@ export const metadata = {
 
 const About1 = () => {
   return (
-    <>
-      <PageBanner pageTitle={"About us."} breadTitle={"About us"} type={1} />
+    <div className="aboutGridMain">
+      {/* <PageBanner pageTitle={"About us."} breadTitle={"About us"} type={1} /> */}
       <AboutTwoSection />
       <FeaturesOneSection />
       <PromoVideoSection />
       {/* <TeamSection /> */}
       <TestimonialSlider />
       {/* <CallToActionTwoSection /> */}
-    </>
+    </div>
   );
 };
 export default About1;

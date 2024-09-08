@@ -20,15 +20,7 @@ const ProductsSlider = ( {items, title, description, button = {}, slidesPerView,
     <>
     {/* short menu */}
     <section className={`sb-short-menu sb-p-${paddingTop}-90`}>
-        {bgType == 2 ? (
-        <div className="sb-bg-1" style={{"marginTop": "-120px"}}>
-            <div></div>
-        </div>
-        ) : (
-        <div className="sb-bg-2">
-            <div></div>
-        </div>
-        )}
+       
         <div className="container">
             <div className="sb-group-title sb-mb-30">
             <div className="sb-left sb-mb-30">

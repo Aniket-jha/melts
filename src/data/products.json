@@ -73,7 +73,39 @@
                 "currency": "$",
                 "rating": 5,
                 "text": "Our Plain Barfi is a timeless treat, crafted from the finest ingredients to deliver a smooth, melt-in-your-mouth texture. Rich in flavor yet subtly sweet, it's the perfect choice for those who appreciate classic Indian confectionery."
-            }     
+            },  
+            {
+                "image": "/img/menu/assorted.png",
+                "title": "Assorted Barfis",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "Indulge in the rich and vibrant flavors of our Assorted Barfis, a perfect blend of tradition and taste. Crafted in the heart of the UK using the finest ingredients, each piece is a celebration of classic Indian sweets. From the creamy richness of pista to the aromatic allure of saffron, our barfis offer a delightful treat for every palate. Whether you're sharing with loved ones or treating yourself, these colorful delights are sure to bring sweetness to any occasion. Enjoy the authentic taste of India, beautifully packaged and delivered fresh to your door.."
+            },  
+            {
+                "image": "/img/menu/dates.png",
+                "title": "DATES BARFI",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "Experience the natural sweetness of our Dates Barfi, a luxurious treat crafted with care in the UK. Made with the finest dates, this barfi is a perfect fusion of health and indulgence. Each bite offers a burst of rich, caramel-like flavor, enhanced by the subtle warmth of spices. Free from refined sugars, our Dates Barfi is a guilt-free delight, perfect for those who seek a wholesome yet delicious treat. Whether it's a special occasion or a simple craving, let the goodness of dates elevate your sweet moments."
+            },  
+            {
+                "image": "/img/menu/milkcake.png",
+                "title": "Milk Cake",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "At Meltz India, we bring you the timeless charm of traditional sweets with our exquisite Milk Cake. Rich, creamy, and perfectly caramelized, this delicacy is handcrafted with love, using pure milk and the finest ingredients. Each bite of our Milk Cake melts in your mouth, delivering a taste that’s both nostalgic and indulgent. Perfect for gifting or enjoying with family, our Milk Cake embodies the essence of Indian sweetness, now made with the authenticity and care that Meltz India is known for. Relish the classic flavor that brings warmth to every celebration."
+            },  
+            {
+                "image": "/img/menu/kalakand.png",
+                "title": "Kalakand",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "At Meltz India, we bring you the authentic flavor of Indian sweets with our delectable Kalakand. Made from pure, fresh milk and slow-cooked to perfection, our Kalakand is a celebration of rich texture and unparalleled taste. Each bite offers a melt-in-your-mouth experience, infused with the subtle aroma of cardamom and a sprinkle of nuts for that extra crunch. Perfect for festivals, celebrations, or simply to satisfy your sweet cravings, Meltz India's Kalakand embodies the essence of tradition and quality. Indulge in this timeless classic, crafted with love and delivered straight from our kitchen to your home."
+            }   
         ],
         "bestseller": [
             {

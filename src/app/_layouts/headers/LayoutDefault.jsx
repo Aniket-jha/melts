@@ -83,7 +83,7 @@ const DefaultHeader = () => {
                     </div> */}
                     {/* button end */}
                     {/* menu btn */}
-                    {/* <div className={`sb-menu-btn ${mobileMenu ? "sb-active" : ""}`} onClick={() => setMobileMenu(!mobileMenu)}><span></span></div> */}
+                    <div className={`sb-menu-btn ${mobileMenu ? "sb-active" : ""}`} onClick={() => setMobileMenu(!mobileMenu)}><span></span></div>
                     {/* info btn */}
                     {/* <div className={`sb-info-btn ${miniSidebar ? "sb-active" : "" }`} onClick={() => setMiniSidebar(!miniSidebar)}><span></span></div> */}
                     </div>

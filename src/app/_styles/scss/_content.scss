@@ -59,9 +59,8 @@ banner
   }
 
   &.sb-banner-color {
-    background-color: $c6;
-    border-left: solid 30px $c4;
-    border-right: solid 30px $c4;
+    background-color: #e9def8;
+   
   }
 }
 @media (max-width: 992px) {
@@ -157,7 +156,7 @@ features
     min-width: 62px;
     margin-right: 30px;
     font-family: var(--font-monoton), cursive;
-    color: #9f4b97;
+    color: #96f97b;
     font-size: 42px;
     line-height: 36px;
   }
@@ -197,7 +196,7 @@ menu
 
   & .sb-cover-frame {
     display: block;
-    background-color: $c3;
+  
     overflow: hidden;
     position: relative;
     padding-bottom: 100%;
@@ -205,6 +204,7 @@ menu
 
     & img {
       width: 100%;
+      border-radius: 20px;
       height: 100%;
       position: absolute;
       object-fit: cover;

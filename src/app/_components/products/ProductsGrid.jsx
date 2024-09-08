@@ -22,7 +22,7 @@ const ProductsGrid = ({ items, columns }) => {
 
   return (
     <>
-      <div className="row mx-3 my-3">
+      <div className="row mx-3 productGridMain">
         {items.map((item, key) => (
         <div className={columnsClass} key={`products-grid-item-${key}`}>
           <ProductItem item={item} index={key} marginBottom={30} moreType={moreType} />
