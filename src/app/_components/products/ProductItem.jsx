@@ -59,7 +59,7 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
           )}
           {/* button end */}
           {/* button */}
-          <a href="#." className="sb-btn sb-atc" >
+          <a href="/contact" className="sb-btn sb-atc" >
             <span className="sb-icon">
               <img src="/img/ui/icons/cart.svg" alt="icon" />
             </span>

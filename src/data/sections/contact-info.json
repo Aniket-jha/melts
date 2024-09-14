@@ -2,18 +2,18 @@
     "items": [
         {
             "num": "01",
-            "title": "Welcome",
-            "text": "Montréal, 1510 Rue Sauvé"
+            "title": "Address",
+            "text": "Rear of 153 to 157 Harrow Road Wembley HA9 6DN"
         },
         {
             "num": "02",
             "title": "Call",
-            "text": "+02 (044) 756-X6-52"
+            "text": "0845337266"
         },
         {
             "num": "03",
             "title": "Write",
-            "text": "starbelly@mail.com"
+            "text": "contact@meltzsweets.com"
         }
     ]
 }
