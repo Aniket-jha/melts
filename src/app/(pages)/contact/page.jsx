@@ -12,7 +12,7 @@ export const metadata = {
     title: {
         default: "Contact",
     },
-    description: AppData.settings.siteDescription,
+   
 }
 
 const Contact = () => {

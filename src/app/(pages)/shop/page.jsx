@@ -16,7 +16,7 @@ export const metadata = {
   title: {
 		default: "Shop",
 	},
-  description: AppData.settings.siteDescription,
+ 
 }
 
 const Shop = () => {
