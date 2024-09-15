@@ -38,7 +38,7 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
         <div className="sb-description">
         <h4 className="sb-card-title my-2"><Link href={`/product`}>{item.title}</Link></h4>
             <p className="sb-text sb-mb-15">
-                {item.text.slice(0,100)}
+                {item.text}
             </p>
         </div>
         <div className="sb-card-buttons-frame">

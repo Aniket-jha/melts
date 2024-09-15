@@ -61,15 +61,15 @@ const Hero = ( { type } ) => {
                             <div className="sb-cirkle-5"></div>
 
                             <img src="/img/illustrations/angoori.png" alt="phones" className="sb-pik-1" />
-                            <img src="/img/illustrations/kajukatli.png" alt="phones" className="sb-pik-2" />
-                            <img src="/img/illustrations/gulab.png" alt="phones" className="sb-pik-3" />
+                            <img src="/img/illustrations/rasgulla.png" alt="phones" className="sb-pik-2" />
+                           
                         </div>
                         ) : (
                         <div className="sb-ilustration-fix">
                             <div className="sb-illustration-1-2">
-                                <img src="/img/illustrations/kajukatli.png" alt="food" className="sb-food-1" />
-                                <img src="/img/illustrations/gulab.png" alt="food" className="sb-food-2" />
-                                <img src="/img/illustrations/angoori.png" alt="food" className="sb-food-3" />
+                                <img src="/img/illustrations/rasgulla.png" alt="food" className="sb-food-1" />
+                                <img src="/img/illustrations/angoori.png" alt="food" className="sb-food-2" />
+                                <img src="/img/illustrations/barfi.png" alt="food" className="sb-food-3" />
 
                                 <div className="sb-illu-dialog-1"><span>😋</span> Om-nom-nom...</div>
                                 <div className="sb-illu-dialog-2"><span>🥰</span> Sooooo delicious!</div>
@@ -81,8 +81,8 @@ const Hero = ( { type } ) => {
                                 <div className="sb-cirkle-5"></div>
                                 
                                 <img src="/img/illustrations/angoori.png" alt="phones" className="sb-pik-1" />
-                                <img src="/img/illustrations/kajukatli.png" alt="phones" className="sb-pik-2" />
-                                <img src="/img/illustrations/gulab.svg" alt="phones" className="sb-pik-3" />
+                                <img src="/img/illustrations/rasgulla.png" alt="phones" className="sb-pik-2" />
+                                <img src="/img/illustrations/angoori.png" alt="phones" className="sb-pik-3" />
                             </div>
                         </div>
                         )}
