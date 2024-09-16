@@ -24,7 +24,7 @@ const About1 = () => {
     <div className="aboutGridMain">
       {/* <PageBanner pageTitle={"About us."} breadTitle={"About us"} type={1} /> */}
       <AboutTwoSection />
-      <FeaturesOneSection />
+    
       <PromoVideoSection />
       {/* <TeamSection /> */}
       {/* <TestimonialSlider /> */}

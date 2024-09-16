@@ -64,7 +64,7 @@
                 "price": "11",
                 "currency": "$",
                 "rating": 5,
-                "text": "Words would fail to describe these ever juicy, scrumptious and tender rasgulla, which literally  means ‘ras’-Juice ‘gulla’-ball. Made of ‘channa’ or cottage sweet, these are then soaked in aromatic flavoured sugar syrup."
+                "text": "Words would fail to describe these ever juicy, scrumptious and tender rasgulla, which literally  means ‘ras’-Juice ‘gulla’-ball. Made of ‘channa’ or cottage cheese, these are then soaked in aromatic flavoured sugar syrup."
             },     
             {
                 "image": "/img/menu/barfi.png",
@@ -88,7 +88,7 @@
                 "price": "11",
                 "currency": "$",
                 "rating": 5,
-                "text": "Experience the natural sweetness of our Dates Barfi, a luxurious treat crafted with care in the UK. Made with the finest dates, this barfi is a perfect fusion of health and indulgence. "
+                "text": "Experience the natural sweetness of our Dates Barfi. Made with the finest dates, this barfi is a perfect fusion of health and indulgence. "
             },  
             {
                 "image": "/img/menu/milkcake.png",
@@ -96,7 +96,7 @@
                 "price": "11",
                 "currency": "$",
                 "rating": 5,
-                "text": "At Meltz India, we bring you the timeless charm of traditional sweets with our exquisite Milk Cake. Rich, creamy, and perfectly caramelized, this delicacy is handcrafted with love, using pure milk and the finest ingredients."
+                "text": "At Meltz UK, we bring you the timeless charm of traditional sweets with our exquisite Milk Cake. Rich, creamy, and perfectly caramelized, this delicacy is handcrafted with love, using pure milk and the finest ingredients."
             },  
             {
                 "image": "/img/menu/kalakand.png",
@@ -104,7 +104,7 @@
                 "price": "11",
                 "currency": "$",
                 "rating": 5,
-                "text": "At Meltz India, we bring you the authentic flavor of Indian sweets with our delectable Kalakand. Made from pure, fresh milk and slow-cooked to perfection, our Kalakand is a celebration of rich texture and unparalleled taste. "
+                "text": "We bring you the authentic flavor of Indian sweets with our delectable Kalakand. Made from pure, fresh milk and slow-cooked to perfection, our Kalakand is a celebration of rich texture and unparalleled taste. "
             }   
         ],
         "bestseller": [

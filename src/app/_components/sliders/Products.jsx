@@ -36,7 +36,7 @@ const ProductsSlider = ( {items, title, description, button = {}, slidesPerView,
                 {/* slider navigation end */}
                 {/* button */}
                 {button != 0 &&
-                <Link href={button.link ? button.link : Data.button.link} className="sb-btn">
+                <Link href='/contact' className="sb-btn">
                     <span className="sb-icon">
                         <img src={button.icon ? button.icon : Data.button.icon} alt="icon" />
                     </span>
