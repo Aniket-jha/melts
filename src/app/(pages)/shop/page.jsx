@@ -16,7 +16,7 @@ export const metadata = {
   title: {
 		default: "Shop",
 	},
- 
+ description:"At Meltz we strive to mark your memories through our range of sweets."
 }
 
 const Shop = () => {

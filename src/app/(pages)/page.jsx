@@ -19,7 +19,7 @@ export const metadata = {
 		default: "Home",
 		template: "%s | " + AppData.settings.siteName,
 	},
-  
+  description:"At Meltz we strive to mark your memories through our range of sweets."
 }
 
 async function Home1() {
